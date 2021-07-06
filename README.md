@@ -1,2 +1,2 @@
-# Sinif-Gecme-D-r-m--Hesaplayan-Program
+# Sinif-Gecme-Durumu-Hesaplayan-Program
 Patika Ödevi
